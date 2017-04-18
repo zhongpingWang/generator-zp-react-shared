@@ -1,0 +1,27 @@
+{
+  "name": "generator-zp-react-shared",
+  "version": "0.0.1",
+  "description": "一个快速测试reace的项目",
+  "main": "./app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhongpingWang/generator-zp-react-shared.git"
+  },
+  "homepage": "https://github.com/zhongpingWang",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "zhongping",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.3.0",
+    "chalk": "^1.1.1",
+    "fs-extra": "^0.24.0",
+    "mocha": "^2.3.3",
+    "yeoman-generator": "^0.24.1",
+    "yosay": "^1.0.5"
+  }
+}
